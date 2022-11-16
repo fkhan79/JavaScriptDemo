@@ -1,0 +1,1 @@
+alert("Hello World Example 3-with external file")
