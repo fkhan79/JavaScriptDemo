@@ -70,3 +70,5 @@ arrBase2=[1,2,3,4,5,6,7];//Array with 7 Elements and 0-6 Index
 console.log("arrBase2: ", arrBase2.length,arrBase2);
 arrx=arrBase1.concat(arrBase2)
 console.log("arx2: ", arrx.length,arrx);
+
+
